@@ -17,3 +17,7 @@ Omega Text Editor is a non-modal terminal-based (TUI) intuitive text editor. Com
 * Tasks/Macro support
 * Built in HEX editor
 * and many more......
+
+This project is under development. 
+
+Feature requests and core development are always welcome!!!
