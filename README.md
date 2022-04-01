@@ -11,7 +11,9 @@ Omega Text Editor is a non-modal terminal-based (TUI) intuitive text editor. Com
 * Language Service Protocol (LSP) client
 * Integrated file browser
 * Integrated terminal emulator
+* Project support
 * SSH support
 * Remote support - FTP, SFTP
 * Tasks/Macro support
+* Built in HEX editor
 * and many more......
