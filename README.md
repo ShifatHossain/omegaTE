@@ -1,6 +1,6 @@
 # OmegaTE (Omega Text Editor)
 
-Omega Text Editor is a terminal-based (TUI) intuitive text editor. Common features include
+Omega Text Editor is a non-modal terminal-based (TUI) intuitive text editor. Common features include
 
 * Lightweight
 * Terminal based UI
