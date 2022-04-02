@@ -13,6 +13,7 @@ Omega Text Editor is a non-modal terminal-based (TUI) intuitive text editor. Com
 * Integrated terminal emulator
 * Project support
 * SSH support
+* Git support
 * Remote support - FTP, SFTP
 * Tasks/Macro support
 * Built in HEX editor
